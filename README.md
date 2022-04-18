@@ -1,16 +1,13 @@
-# Credit_Risk_Analysis
-Module 17
+# Credit Risk Analysis
 
+## Background
+The purpose of the analysis was to use machine learning to predict credit card risk. Using a dataset from LendingClub, several algorithms (i.e., oversampling, SMOTE oversampling, undersampling, combination sampling) and machine learning models (i.e. Balanced Random Forests, Easy Ensemble) to predict credit risk. Performance of the models was then evaluated.
 
-Oversampling: 65.5%
-SMOTE Oversampling: 63.1%
-Undersampling: 51.0%
-Combination (Over and Under) Sampling: 65.7%
-Balanced Random Forest Classifier: 78.4%
-Easy Ensemble AdaBoost Classifier: 92.5%
-
+## Results
 ### Oversampling
 ![oversampling](https://user-images.githubusercontent.com/96216947/163718567-170413ad-5840-4faf-afb9-c3b4d3067186.JPG)
+#### - Balanced accuracy score: 65.5%
+
 ### SMOTE Oversampling
 ![SMOTE_oversampling](https://user-images.githubusercontent.com/96216947/163718596-d0d47da6-b611-41b2-97b7-2d7299a32849.JPG)
 ### Undersampling
@@ -22,3 +19,11 @@ Easy Ensemble AdaBoost Classifier: 92.5%
 ### Easy Ensemble AdaBoost Classifier
 ![easy_ensemble](https://user-images.githubusercontent.com/96216947/163718713-ae1912e4-8c46-42d6-9039-8796ed1e29f4.JPG)
 
+Oversampling: 65.5%
+SMOTE Oversampling: 63.1%
+Undersampling: 51.0%
+Combination (Over and Under) Sampling: 65.7%
+Balanced Random Forest Classifier: 78.4%
+Easy Ensemble AdaBoost Classifier: 92.5%
+
+Precesion Recall
